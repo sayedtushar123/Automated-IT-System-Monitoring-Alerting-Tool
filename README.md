@@ -10,7 +10,7 @@ All activities are logged for auditing, and the tool can be automated with Windo
 
 ## ✨ Features  
 - ✅ Monitor CPU, Memory, and Disk thresholds  
-- ✅ Check status of critical Windows services  
+- ✅ Check status of critical Windows services (Spooler → Print,wuauserv → Windows Update service, WinDefend → Windows Defender,BITS → Background Intelligent Transfer Service) 
 - ✅ Send alerts when thresholds are exceeded:  
   - 📧 Email (SMTP)  
   - 💬 Slack (Webhook)  
